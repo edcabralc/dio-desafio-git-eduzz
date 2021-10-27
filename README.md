@@ -1,6 +1,6 @@
 # Eduzz
 
-Repositório do desafio de Github da DIO
+Repositório do desafio de Github da DIO.
 
 
 ## Authors
